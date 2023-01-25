@@ -1,0 +1,23 @@
+button {
+    background: #381f1f;
+    color: white;
+    width: 80px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+* {
+    font-family: Arial;
+    line-height: 5px;
+
+}
+
+.delivery {
+    font-weight: 700;
+}
+
+.wrapper{
+    display: flex;
+}
